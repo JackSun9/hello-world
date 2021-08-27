@@ -16,7 +16,7 @@ public:
 
 // Attributes
 public:
-
+int m_iCount; // test 1
 // Operations
 public:
 
