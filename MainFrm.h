@@ -17,6 +17,7 @@ public:
 // Attributes
 public:
 int m_iCount; // test 1
+int m_iSize; //test 2
 // Operations
 public:
 
