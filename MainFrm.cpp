@@ -43,6 +43,7 @@ CMainFrame::CMainFrame()
 {
 	// TODO: add member initialization code here
 	theApp.m_nAppLook = theApp.GetInt(_T("ApplicationLook"), ID_VIEW_APPLOOK_VS_2008);
+	int iBranchNumber = 1; //Branch1
 }
 
 CMainFrame::~CMainFrame()
